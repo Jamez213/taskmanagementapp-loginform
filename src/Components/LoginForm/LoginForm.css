@@ -103,6 +103,16 @@
     font-size: 30px;
 }
 
+.account-register .account-icon {
+    color: #050505;
+}
 
+.footer {
+    margin-top: 30px;
+}
 
-
+.footer p {
+    margin-left: 13px;
+    justify-content: center;
+    align-items: center;
+}
